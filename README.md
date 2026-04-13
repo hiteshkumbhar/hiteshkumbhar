@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+ Hitesh Kumbhar)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+Hitesh Kumbhar)
 
 # 💫 About Me:
 I am currently working as Assistant system analyst in CEDGE technologies ltd. <br>I am passionate about python.<br>I have automated web application using selenium in python in this company which saved lot of manual work and speed up the day to day tasks.<br>Currently I am learning django framework and eager to collaborate as python web developer.
@@ -12,7 +12,7 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hiteshkumbhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hiteshkumbhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hiteshkumbhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=hiteshkumbhar&icon=0&color=0)](https://visitcount.itsvg.in)
