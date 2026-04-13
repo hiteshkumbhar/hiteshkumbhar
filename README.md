@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+Hitesh_Kumbhar)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+there,+I'm+Hitesh_Kumbhar)
 
 # 💫 About Me:
 I am currently working as Assistant system analyst in CEDGE technologies ltd. <br>I am passionate about python.<br>I have automated web application using selenium in python in this company which saved lot of manual work and speed up the day to day tasks.<br>Currently I am learning django framework and eager to collaborate as python web developer.
