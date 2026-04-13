@@ -22,6 +22,6 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/hiteshkumbhar1) 
 
   
-  
+![Stats](https://github-readme-stats.vercel.app/api?username=hiteshkumbhar&show_icons=true&theme=radical)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
