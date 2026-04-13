@@ -23,5 +23,7 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
 
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=hiteshkumbhar&show_icons=true&theme=radical)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumbhar&layout=compact&theme=radical)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
