@@ -11,7 +11,7 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hiteshkumbhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hiteshkumbhar&theme=dark&hide_border=false)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiteshkumbhar&theme=radical)
 
 
 ---
@@ -23,5 +23,4 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
 
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiteshkumbhar&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
