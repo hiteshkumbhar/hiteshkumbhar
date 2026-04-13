@@ -15,7 +15,6 @@ I am currently working as Assistant system analyst in CEDGE technologies ltd. <b
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=hiteshkumbhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Visitors](https://komarev.com/ghpvc/?username=hiteshkumbhar&color=blue)
 
